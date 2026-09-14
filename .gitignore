@@ -1,0 +1,23 @@
+# Fichiers compilés Java
+*.class
+
+# Dumps de crash JVM
+hs_err_pid*.log
+replay_pid*.log
+
+# Dossiers de build
+out/
+bin/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+
+# Système
+Thumbs.db
+.DS_Store
