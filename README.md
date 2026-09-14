@@ -45,7 +45,6 @@ jeu-de-dames-java/
 │       ├── capture.wav
 │       └── victoire.wav
 ├── INSTALLATION.md          # Guide pas à pas (installation JDK, compilation, exécution)
-├── Rapport PFM.pdf          # Rapport du projet
 └── README.md
 ```
 
@@ -61,10 +60,6 @@ Tout est regroupé dans `JeuDeDamesGUI.java` :
 | `PlateauDeJeu` | Composant Swing : rendu graphique et gestion des clics souris |
 | `SoundManager` | Lecture des effets sonores |
 | `JeuDeDamesGUI` | Fenêtre principale (`JFrame`) et lancement de l'application |
-
-## Rapport
-
-Le rapport détaillé du projet (conception, règles, choix techniques) est disponible dans [`Rapport PFM.pdf`](Rapport%20PFM.pdf).
 
 ## Auteur
 
